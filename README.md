@@ -62,5 +62,7 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 
 ### Coding Stats
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
