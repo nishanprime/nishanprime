@@ -63,9 +63,10 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 12 mins   ███████████████▓░░░░░░░░░   63.04 % 
-Bash         1 hr 51 mins    ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-Text         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-HTML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+JavaScript   2 hrs 3 mins    ██████████▓░░░░░░░░░░░░░░   42.90 % 
+Bash         1 hr 51 mins    █████████▓░░░░░░░░░░░░░░░   38.60 % 
+Text         20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+HTML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+CSS          13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 <!--END_SECTION:waka-->
