@@ -63,10 +63,10 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-YAML         1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.33 % 
-C            1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.59 % 
-JavaScript   1 hr 4 mins     ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Docker       33 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Text         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+YAML         1 hr 20 mins    ██████████▓░░░░░░░░░░░░░░   42.80 % 
+JavaScript   1 hr 4 mins     ████████▓░░░░░░░░░░░░░░░░   34.49 % 
+Docker       33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 <!--END_SECTION:waka-->
