@@ -60,7 +60,8 @@ I love making website and mobile apps. I started my development journey in my co
 Up until this day, Jun11, 2021, I have invested myself more than 300 hours of MERN stack web development and around 100 hours of REACT-Native app development. 
 
 
-### Coding Stats
+### Coding Stats (Last 7 days)
+  
 <!--START_SECTION:waka-->
 ```text
 JavaScript   4 hrs 42 mins   ██████████████████████░░░   88.60 % 
