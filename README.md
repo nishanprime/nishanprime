@@ -12,7 +12,7 @@ I'm Nishan Thapa, a junior Full Stack Web/App Developer and an undergraduate stu
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for a workplace to develop my skills and work on experienced mentor and co-workers
 - 📫 How to reach me: thapanishan9@gmail.com.
-- ⚡ Fun fact: I play games, and I love to analyzed financial position of a company.
+- ⚡ Fun fact: I play games, and I love to analyze financial position of a company.
 
 #### 1.0.1. Top Technologies
 
