@@ -64,10 +64,10 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
   
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 33 mins   ████████████▒░░░░░░░░░░░░   49.31 % 
-JSX          1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-HTML         1 hr 26 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-CSS          1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Bash         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+JavaScript   5 hrs 32 mins   ████████████░░░░░░░░░░░░░   47.60 % 
+JSX          1 hr 51 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+HTML         1 hr 18 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+CSS          1 hr 10 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+Bash         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 ```
 <!--END_SECTION:waka-->
