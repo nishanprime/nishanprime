@@ -64,9 +64,9 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
   
 <!--START_SECTION:waka-->
 ```text
-YAML         42 mins         ████████████▒░░░░░░░░░░░░   49.39 % 
-Other        24 mins         ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-Bash         9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Docker       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+YAML         47 mins         ███████████▓░░░░░░░░░░░░░   47.28 % 
+Other        33 mins         ████████▒░░░░░░░░░░░░░░░░   33.72 % 
+Bash         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Docker       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 ```
 <!--END_SECTION:waka-->
