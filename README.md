@@ -1,7 +1,6 @@
 ## Hi I'm Nishan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am a Fullstack web developer, a finacne enthusiast, wannabe stock trader currently studying CS & Finacne at Drexel University. I utilize my time on college course-work and most of it on learning tech and finance skills from everywhere possible. 
-
+Efficient Fullstack Web Developer, undergoing Bachelor degree in Computer Science & Finance and around 2 years of experience in challenging development environments. Excellent communication and organizational abilities with resourceful approach to solving diverse problems. Deadline-driven and knowledgeable professional with strong desire to learn and contribute to team success. Successful at improving usability, performance and functionality by applying skills in different JS and related frameworks. Collaborative and hardworking team player with critical thinking skills and systematic approach.
 :mailbox: Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Nishan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishan-thapa-18331a171/) [![Mail Badge](https://img.shields.io/badge/-@nishan_nt-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/nishan_nt/) [![Mail Badge](https://img.shields.io/badge/-nishanthapa-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:thapanishan9@gmail.com)
