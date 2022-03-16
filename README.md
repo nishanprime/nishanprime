@@ -63,12 +63,12 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   11 hrs 55 mins  ███████████████████████░░   92.28 %
-JSON         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-HTML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Markdown     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript    9 hrs 11 mins   ███████████████████████▓░   94.54 %
+JSON          17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
+HTML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Markdown      3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+TypeScript    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Git Config    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
