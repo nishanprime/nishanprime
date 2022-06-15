@@ -63,7 +63,9 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   44 mins         █████████████████████░░░░   83.46 %
+Bash         7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 ```
 
 <!--END_SECTION:waka-->
