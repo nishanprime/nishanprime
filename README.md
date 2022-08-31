@@ -63,7 +63,8 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-Other                      5 mins          ███████████▒░░░░░░░░░░░░░   45.11 %
+Nginx configuration file   19 mins         ████████████████▓░░░░░░░░   66.44 %
+Other                      7 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.93 %
 ```
 
 <!--END_SECTION:waka-->
