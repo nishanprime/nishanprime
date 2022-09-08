@@ -63,12 +63,11 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-Docker                     57 mins         █████████░░░░░░░░░░░░░░░░   36.06 %
-Bash                       28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
-YAML                       21 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Nginx configuration file   15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
-JSON                       14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Other                      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Docker                     58 mins         ██████████░░░░░░░░░░░░░░░   39.34 %
+Bash                       28 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
+YAML                       23 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+JSON                       14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Other                      7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
