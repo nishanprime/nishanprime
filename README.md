@@ -63,9 +63,9 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-C                          2 hrs 20 mins   ██████████▓░░░░░░░░░░░░░░   43.11 %
-TypeScript                 1 hr 18 mins    ██████░░░░░░░░░░░░░░░░░░░   24.04 %
-Other                      39 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+C                          2 hrs 21 mins   ███████████▓░░░░░░░░░░░░░   46.36 %
+TypeScript                 1 hr 18 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+Other                      28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
 ```
 
 <!--END_SECTION:waka-->
