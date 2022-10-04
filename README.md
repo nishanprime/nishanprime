@@ -63,10 +63,12 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-C                          1 hr 56 mins    ███████████░░░░░░░░░░░░░░   43.85 %
-TypeScript                 1 hr 12 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-Bash                       25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Other                      25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+C                          1 hr 56 mins    ██████████████████▒░░░░░░   73.04 %
+TypeScript                 14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
+Bash                       7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Text                       6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+YAML                       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Makefile                   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
