@@ -63,8 +63,8 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-C                          2 hrs 38 mins   █████████▒░░░░░░░░░░░░░░░   37.03 %
-Other                      2 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   31.22 %
+C                          2 hrs 38 mins   ████████▒░░░░░░░░░░░░░░░░   33.99 %
+Other                      2 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.42 %
 ```
 
 <!--END_SECTION:waka-->
