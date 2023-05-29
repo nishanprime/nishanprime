@@ -63,9 +63,7 @@ Up until this day, Jun11, 2021, I have invested myself more than 300 hours of ME
 <!--START_SECTION:waka-->
 
 ```text
-Python       5 mins          ███████████▒░░░░░░░░░░░░░   45.05 %
-Docker       3 mins          ████████░░░░░░░░░░░░░░░░░   32.61 %
-JavaScript   2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
