@@ -1,6 +1,6 @@
 ## Hi I'm Nishan <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Efficient Fullstack Web Developer, undergoing Bachelor degree in Computer Science & Finance and around 2 years of experience in challenging development environments. Excellent communication and organizational abilities with resourceful approach to solving diverse problems. Deadline-driven and knowledgeable professional with strong desire to learn and contribute to team success. Successful at improving usability, performance and functionality by applying skills in different JS and related frameworks. Collaborative and hardworking team player with critical thinking skills and systematic approach.
+Efficient Fullstack Web Developer, with Bachelor degree in Computer Science & Finance and around 6 years of experience in challenging development environments. Excellent communication and organizational abilities with resourceful approach to solving diverse problems. Deadline-driven and knowledgeable professional with strong desire to learn and contribute to team success. Successful at improving usability, performance and functionality by applying skills in different JS and related frameworks. Collaborative and hardworking team player with critical thinking skills and systematic approach.
 
 :mailbox: Connect with me:
 
@@ -53,9 +53,6 @@ Efficient Fullstack Web Developer, undergoing Bachelor degree in Computer Scienc
 
 <br >
 
-I love making website and mobile apps. I started my development journey in my college, from around Jan 2021, and have tried self-learning approach-- watching tutorials online and reading documentations. With daily learning, I feel more and more comfortable with my skills, and up until this point, I have done tons of projects to assess those skills.
-
-Up until this day, Jun11, 2021, I have invested myself more than 300 hours of MERN stack web development and around 100 hours of REACT-Native app development.  -->
 
 
 ### Coding Stats (Last 7 days)
