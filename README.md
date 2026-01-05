@@ -22,10 +22,6 @@ Full‑stack Software Engineer with a strong focus on JavaScript/TypeScript ecos
 * **DevOps / Infra:** Docker, Kubernetes, Redis, BullMQ
 * **Concepts:** System design, design patterns, scalable architectures
 
----llMQ
-
-* **Tools:** Git, VS Code
-
 ---
 
 ## Interests
