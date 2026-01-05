@@ -37,6 +37,4 @@ Full‑stack Software Engineer with a strong focus on JavaScript/TypeScript ecos
 * 💼 [LinkedIn](https://www.linkedin.com/in/nishan-thapa-18331a171/)
 * 📧 Email: [thapanishan9@gmail.com](mailto:thapanishan9@gmail.com)
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanprime\&show_icons=true\&theme=radical)
